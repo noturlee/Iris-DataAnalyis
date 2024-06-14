@@ -1,4 +1,6 @@
-# Iris Flower Classification with Machine Learning
+<img src="Images/banner.gif"/>
+
+# Iris Flower Classification Model
 
 # Table of Contents
 1. [Overview](#overview)
@@ -73,6 +75,15 @@ The overall accuracy of 100% indicates that the model successfully learned the p
 
 - **Pair Plot:** Visualizes relationships between sepal length, sepal width, petal length, and petal width across different species.
 - **Correlation Heatmap:** Shows the correlation coefficients between these features, aiding in feature selection and understanding feature importance.
+  
+<p float="left">
+<img width="400" alt="Screenshot 2024-06-15 at 00 38 42" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/0ce8011d-7aca-4dce-b161-63f967f4cfd0">
+<img width="400" alt="Screenshot 2024-06-15 at 00 39 10" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/7fec5f5c-bfb0-4541-abbc-28ced0f10c80">
+
+   
+<p float="left">
+<img width="400" alt="Screenshot 2024-06-15 at 00 39 22" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/fe91c64d-10d1-481c-8dcf-28c18c8f606c">
+<img width="400" alt="Screenshot 2024-06-15 at 00 40 09" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/169ab481-cd25-4eb2-8873-2c5122494fac">
 
 ## Findings
 
