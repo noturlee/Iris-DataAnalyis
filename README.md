@@ -2,7 +2,7 @@
 
 # Iris Flower Classification Model
 
-# Table of Contents
+## Table of Contents
 1. [Overview](#overview)
 2. [Models Used](#models-used)
 3. [Data Preprocessing](#data-preprocessing)
