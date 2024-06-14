@@ -16,7 +16,8 @@
 6. [Findings](#findings)
    - [Data Exploration](#data-exploration)
    - [Model Performance](#model-performance)
-7. [Conclusion](#conclusion)
+7. [Ouput](#ouput)
+8. [Conclusion](#conclusion)
 
 ## Overview
 
@@ -34,6 +35,8 @@ Two primary models were employed:
 ### Data Loading
 
 The Iris dataset was loaded from a CSV file containing 150 records and 5 attributes: sepal length, sepal width, petal length, petal width, and species.
+
+<img src ="https://i.pinimg.com/originals/d4/5e/47/d45e47ee0ea7e9e285de7d10f34d2f6e.gif" width="300"/>
 
 ### Exploratory Data Analysis (EDA)
 
@@ -98,6 +101,21 @@ The overall accuracy of 100% indicates that the model successfully learned the p
 - Both Logistic Regression and Random Forest Classifier achieved perfect accuracy of 100% on the test dataset.
 - Precision, recall, and F1-score metrics confirmed the models' ability to effectively distinguish between Iris species.
 
+## Output
+
+The output from the models includes:
+- Best Parameters for Random Forest Classifier: {'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 50}
+- Best Random Forest Accuracy: 1.0
+- Classification Reports for Logistic Regression and Random Forest Classifier, showing precision, recall, and F1-score metrics for each Iris species.
+
+<img width="1277" alt="Screenshot 2024-06-15 at 00 47 36" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/6dc4586e-7699-44c0-ba4d-1834822cfc45">
+
+<br/>
+<br/>
+
+<img width="1271" alt="Screenshot 2024-06-15 at 00 48 03" src="https://github.com/noturlee/Iris-DataAnalyis-CODSOFT/assets/100778149/3af5f49e-185d-4bf9-98aa-9bc966efaab6">
+
 ## Conclusion
 
 This project demonstrated the application of machine learning models to classify Iris flowers based on their morphological measurements with high accuracy. The selected models, Logistic Regression and Random Forest Classifier, performed exceptionally well, showcasing their effectiveness for such classification tasks. By leveraging data preprocessing, visualization, and thorough evaluation techniques, this project provides a robust framework for introductory classification tasks.
+
