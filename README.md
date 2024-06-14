@@ -36,6 +36,8 @@ Two primary models were employed:
 
 The Iris dataset was loaded from a CSV file containing 150 records and 5 attributes: sepal length, sepal width, petal length, petal width, and species.
 
+<img src ="https://i.pinimg.com/originals/d4/5e/47/d45e47ee0ea7e9e285de7d10f34d2f6e.gif" width="300"/>
+
 ### Exploratory Data Analysis (EDA)
 
 - **Summary Statistics:** Provided insights into the distribution and variation of sepal and petal measurements.
